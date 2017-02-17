@@ -2,7 +2,7 @@
     "promoType": "INSTALL",
     "promoApps": "ALL",
     "promoImg": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/InstallPromo1.jpg",
-    "promoImgInline": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/InstallPromo1.jpg",
+    "promoImgInline": "https://dongwooim.github.io/promoImgInline/promo1.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
@@ -12,7 +12,7 @@
     "promoType": "NEW-USER",
     "promoApps": "ALL",
     "promoImg": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/AddCardPromo2.jpg",
-    "promoImgInline": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/InstallPromo1.jpg",
+    "promoImgInline": "https://dongwooim.github.io/promoImgInline/promo2.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -21,7 +21,7 @@
     "promoType": "ADD-FIRST-CARD",
     "promoApps": "SBROWSER",
     "promoImg": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/AddCardPromo3.jpg",
-    "promoImgInline": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/AddCardPromo3.jpg",
+    "promoImgInline": "https://dongwooim.github.io/promoImgInline/promo3.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -30,7 +30,7 @@
     "promoType": "ADD-CARD",
     "promoApps": "APP",
     "promoImg": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/AddCardPromo2.jpg",
-    "promoImgInline": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/AddCardPromo2.jpg",
+    "promoImgInline": "https://dongwooim.github.io/promoImgInline/promo2.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -39,7 +39,7 @@
     "promoType": "UPGRADE",
     "promoApps": "ALL",
     "promoImg": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/UpgradePromo4.jpg",
-    "promoImgInline": "https://smps-resource.s3.amazonaws.com/pay/sys/prd/UpgradePromo4.jpg",
+    "promoImgInline": "https://dongwooim.github.io/promoImgInline/promo4.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
